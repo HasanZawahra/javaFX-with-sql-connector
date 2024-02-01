@@ -5,7 +5,7 @@ This repository provides a simple JavaFX application that connects to a MySQL da
 ## Setup
 
 ### Prerequisites
-Install XAMPP: Download XAMPP
+/ Install XAMPP: Download XAMPP
 Ensure XAMPP is running, specifically Apache and MySQL.
 Database Setup
 Import the database schema:
