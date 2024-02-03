@@ -1,4 +1,4 @@
-# AvaFX with SQL Connector
+# JavaFX with SQL Connector
 
 This repository provides a simple JavaFX application that connects to a MySQL database using a SQL connector. The application is designed to be used with a local database managed by phpMyAdmin using XAMPP.
 
